@@ -1,3 +1,4 @@
+<script>
 const nameField = document.querySelector(".contact-container #fullname");
 const emailField = document.querySelector(".contact-container #email");
 const messageField = document.querySelector(".contact-container #message");
@@ -35,3 +36,4 @@ emailField.addEventListener("focus", () => {
 messageField.addEventListener("focus", () => {
   errorMessage.textContent = "";
 });
+</script>
