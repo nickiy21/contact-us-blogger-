@@ -1,3 +1,4 @@
+<style>
 .contact-container {
   max-width: 700px;
   margin: 32px auto;
@@ -122,3 +123,4 @@
     flex-direction: column;
   }
 }
+</style>
